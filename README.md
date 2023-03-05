@@ -1,2 +1,1 @@
-# PG
-Estudo de lógica de programação e algorítmos.
+# Estudo de lógica de programação e algorítmos.
